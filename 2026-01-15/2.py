@@ -1,0 +1,8 @@
+c = 0
+while c < 10:
+    print(c)
+    c += 1
+    if c == 5:
+        break
+else:
+    print('блок else')
