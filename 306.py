@@ -1,0 +1,3 @@
+def min(a, b, c, d):
+    ...
+    return ans
